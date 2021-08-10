@@ -68,11 +68,6 @@
       "items": [
         {
           "category": 60,
-          "image": "assets/images/eid-banner.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": 60,
           "image": "assets/images/banner-1.jpg",
           "padding": 15.0
         },
