@@ -107,6 +107,7 @@
       "image": "",
       "layout": "threeColumn",
       "category": 63,
+      "limit": 20,
       "isSnapping": true
     },
     {
