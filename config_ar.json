@@ -102,12 +102,18 @@
         }
       ]
     },
+        {
+      "name": "أصناف جديدة",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 76,
+      "isSnapping": true
+    },
     {
       "name": "العروض",
       "image": "",
       "layout": "threeColumn",
       "category": 63,
-      "limit": 20,
       "isSnapping": true
     },
     {
