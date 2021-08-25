@@ -85,6 +85,21 @@
           "category": 71,
           "image": "assets/images/banner-4.jpg",
           "padding": 15.0
+        },
+        {
+          "category": 76,
+          "image": "https://res.cloudinary.com/dkw45j8ba/image/upload/v1629911876/Boyngirl/banner-5_nljcox.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": 76,
+          "image": "https://res.cloudinary.com/dkw45j8ba/image/upload/v1629911876/Boyngirl/banner-6_tnjdwu.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": 76,
+          "image": "https://res.cloudinary.com/dkw45j8ba/image/upload/v1629911877/Boyngirl/banner-7_jlxpil.jpg",
+          "padding": 15.0
         }
       ]
     },
