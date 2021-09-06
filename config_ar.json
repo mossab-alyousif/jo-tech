@@ -48,6 +48,14 @@
           ]
         },
         {
+          "category": 77,
+          "image": "assets/icons/categories/ic_couch.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ]
+        },
+        {
           "category": 63,
           "image": "assets/icons/categories/ic_ballon.png",
           "colors": [
