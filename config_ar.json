@@ -75,38 +75,23 @@
       "radius": 2.0,
       "items": [
         {
-          "category": 60,
-          "image": "assets/images/banner-1.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": 61,
-          "image": "assets/images/banner-2.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": 62,
-          "image": "assets/images/banner-3.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": 71,
-          "image": "assets/images/banner-4.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": 76,
-          "image": "https://res.cloudinary.com/dkw45j8ba/image/upload/v1629911876/Boyngirl/banner-5_nljcox.jpg",
-          "padding": 15.0
-        },
-        {
           "category": 76,
           "image": "https://res.cloudinary.com/dkw45j8ba/image/upload/v1629911876/Boyngirl/banner-6_tnjdwu.jpg",
           "padding": 15.0
         },
         {
           "category": 76,
-          "image": "https://res.cloudinary.com/dkw45j8ba/image/upload/v1629911877/Boyngirl/banner-7_jlxpil.jpg",
+          "image": "https://res.cloudinary.com/dkw45j8ba/image/upload/v1634054469/Boyngirl/banner-13_vx4p2a.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": 76,
+          "image": "https://res.cloudinary.com/dkw45j8ba/image/upload/v1634054469/Boyngirl/banner-14_iqffak.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": 76,
+          "image": "https://res.cloudinary.com/dkw45j8ba/image/upload/v1634054469/Boyngirl/banner-15_thccu1.jpg",
           "padding": 15.0
         }
       ]
